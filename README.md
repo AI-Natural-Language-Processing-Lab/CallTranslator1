@@ -21,7 +21,7 @@ While Call that you say an English, it send to other person call that shows to s
 
 대화를 나룰 수 있다면, 세계가 더욱 가까워지리라 생각하고, 
 
-영어학습의 어려움을 조금이나마 해소할 수 있으리라 생각한다.
+외국어학습의 어려움을 조금이나마 해소할 수 있으리라 생각한다.
 
 기획:이민호 교수님(경북대학교)
 
