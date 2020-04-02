@@ -3,7 +3,11 @@ While Call that you say an English, it send to other person call that shows to s
 
 @ 통화변역기
 
-전화통화시에 상대방에게 자막으로 번역을 해준다. 
+기획:이민호 교수님(경북대학교)
+
+프로그래밍:신동인
+
+전화통화시에 외국어를 상대방의 언어로 번역해서 자막으로 보여준다.
 
 예를 들어, 영어로 말하면 한국어자막으로 번역된다. 
 반대로 한국어로 말하면 영어자막으로 번역된다.
@@ -17,15 +21,11 @@ While Call that you say an English, it send to other person call that shows to s
 
 화상회의시에도 적용 할 수 있다.
 
-그리하여, 전세계사람들이 통화번역기를 통해서 언어에 구애받지 않고,
+그리하여, 전세계사람들이 통화번역기를 통해서 언어와 지역에 구애받지 않고,
 
-대화를 나룰 수 있다면, 세계가 더욱 가까워지리라 생각하고, 
+대화를 나룰 수 있다면, 세계가 더욱 가까워지리라 생각하고,
 
 외국어학습의 어려움을 조금이나마 해소할 수 있으리라 생각한다.
-
-기획:이민호 교수님(경북대학교)
-
-프로그래밍:신동인
 
 설계: SpeechToText->P2P-Network->Translator
 
