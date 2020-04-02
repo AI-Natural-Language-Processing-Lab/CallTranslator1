@@ -1,6 +1,3 @@
-# CallTranslator
-While Call that you say an English, it send to other person call that shows to see a Korean text. also a Korean to an English, and another language.
-
 @ 통화변역기
 
 기획:이민호 교수님(경북대학교)
