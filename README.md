@@ -24,6 +24,6 @@
 
 외국어학습의 어려움을 조금이나마 해소할 수 있으리라 생각한다.
 
-설계: SpeechToText->P2P-Network->Translator
+설계: SpeechToText->Network->Translator
 
 2020.04.01
